@@ -303,7 +303,7 @@ export const faq = [
   },
   {
     title: "Is there any fee customers have to pay?",
-    desc: "we don't accept any fees from customers, everything is completely FREE",
+    desc: "we don't accept any fees from customers, everything is completely FREE. If you have any questions, fill free to ask. Here is our contact number +919036299247 or +917760261060",
   },
   {
     title: "What happens after I land in India?",
